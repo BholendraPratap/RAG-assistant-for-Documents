@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+#temporary directories
+uploads/
+vector_stores/
