@@ -6,6 +6,16 @@ This project is a sophisticated Retrieval-Augmented Generation (RAG) application
 
 ---
 
+## 🚀 Live Access
+
+This application is deployed and publicly accessible via Streamlit Community Cloud. You can interact with the live version without any local setup.
+
+**[➡️ Click here to access the live application](https://rag-assistant-for-documents-bvzyrvdcijefuaacjpjm6k.streamlit.app/)**
+
+
+
+---
+
 ## ✨ Key Features
 
 - **Advanced Intent Detection**: Uses a preliminary LLM call to semantically classify user queries as either `general_query` or `specific_question`, moving beyond simple keyword matching.
