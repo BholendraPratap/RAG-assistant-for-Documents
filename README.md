@@ -5,6 +5,11 @@ This project is a sophisticated Retrieval-Augmented Generation (RAG) application
 > **Note:** This is not a standard RAG implementation. It features a two-stage pipeline that uses an LLM for intent classification before deciding on the optimal retrieval strategy.
 
 ---
+## 🚀 Live Access
+
+This application is deployed and publicly accessible via Streamlit Community Cloud. You can interact with the live version without any local setup.
+
+**[➡️ Click here to access the live application](https://rag-assistant-for-documents-bvzyrvdcijefuaacjpjm6k.streamlit.app/)**
 
 ## ✨ Key Features
 
