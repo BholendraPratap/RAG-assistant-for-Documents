@@ -12,3 +12,6 @@ wheels/
 #temporary directories
 uploads/
 vector_stores/
+
+#api keys and secrets
+.env
