@@ -11,13 +11,6 @@ This application is deployed and publicly accessible via Streamlit Community Clo
 
 **[➡️ Click here to access the live application](https://rag-assistant-for-documents-bvzyrvdcijefuaacjpjm6k.streamlit.app/)**
 
-## 🚀 Live Access
-
-This application is deployed and publicly accessible via Streamlit Community Cloud. You can interact with the live version without any local setup.
-
-**[➡️ Click here to access the live application](https://rag-assistant-for-documents-bvzyrvdcijefuaacjpjm6k.streamlit.app/)**
-
-
 
 ---
 
