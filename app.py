@@ -339,7 +339,7 @@ st.markdown("""
 # Footer
 st.markdown("""
 <div class="footer">
-    Developed by <strong>Shubham Kumar</strong> and <strong>Anurag Kumar</strong> | Galgotias University
+    Developed by <strong>LOONY RESEARCHER</strong> | Galgotias University
 </div>
 """, unsafe_allow_html=True)
 

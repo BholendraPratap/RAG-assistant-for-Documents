@@ -140,7 +140,6 @@ You can customize the behavior of the RAG pipeline by modifying the `config.py` 
 
 This project was developed by:
 
-- **Shubham Kumar**
-- **Anurag Kumar**
+- **LOONY RESEARCHER**
 
-From Galgotias University.
+
